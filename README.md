@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Managing users and their access to splunk collected logs is very important aspect of access control to avoid unauthorized access to sensitive data/logs. You can add users to splunk by using following three methods. Most commonly used approach is LDAP or commonly called AD authentication. As in any Enterprise,Active Directory is used for user management. We can use existing AD configuration to add and manage/update users in splunk. Below we will see step by step AD authentication configuration in splunk.Authentication methods supported by splunk include: Splunk built-in authentication,LDAP authentication (if enabled) and Scripted authentication (if enabled).
+Managing users and their access to logs ingested in splunk is a very important aspect of access control to avoid unauthorized access to sensitive data/logs. You can add users to splunk by using following three methods. Most commonly used approach is LDAP or commonly called AD authentication. As in any Enterprise,Active Directory is used for user management. We can use existing AD configuration to add and manage/update users in splunk. Below we will see step by step AD authentication configuration in splunk.Authentication methods supported by splunk include: Splunk built-in authentication,LDAP authentication (if enabled) and Scripted authentication (if enabled).
 Splunk built-in authentication is the default.
 
 <br />
